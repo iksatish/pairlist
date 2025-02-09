@@ -2,10 +2,8 @@
   "pairs": [
     "XRP/USD",
     "BTC/USD",
-    "USDC/USD",
     "ETH/USD",
     "SOL/USD",
-    "EUR/USD",
     "SUI/USD",
     "DOGE/USD",
     "POPCAT/USD",
@@ -61,7 +59,8 @@
     "ATOM/USD",
     "GRIFFAIN/USD",
     "VINE/USD",
-    "RPL/USD"
+    "RPL/USD",
+    "MELANIA/USD"
   ],
   "refresh_period": 900
 }
